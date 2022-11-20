@@ -1,1 +1,1 @@
-Handwriting Quality Analysis Tool built for the course DataX.
+Handwriting Quality Analysis Tool built for the SIH Hackathon.
